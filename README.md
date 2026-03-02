@@ -94,4 +94,5 @@ Me chamo Yasmin Caetano, tenho 25. Atualmente, estou cursando Ciência da Comput
 
 ### 📊 Estatísticas
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=YAsminCaetanoCC&show_icons=true&theme=radial&cache_seconds=1800)
+![Estatísticas](https://github-readme-stats-eight-theta.vercel.app/api?username=YasminCaetanoCC&show_icons=true&theme=algolia)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YasminCaetanoCC&layout=compact)
