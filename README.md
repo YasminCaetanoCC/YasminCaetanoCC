@@ -5,6 +5,7 @@
   
   <p align="justify"> Me chamo Yasmin Caetano, tenho 25 anos. Atualmente, estou cursando Ciência da Computação na UFF. Gosto de resolver problemas com tecnologia!</p>
 
+ <div align="center">
   <a href="https://www.linkedin.com/in/yasmin-caetano-">
     <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -20,6 +21,7 @@
   <a href="https://github.com/YasminCaetanoCC?tab=repositories">
     <img alt="Repositório" width="80px" src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo" />
   </a>
+   </div>
 </div>
 
 <br/>
