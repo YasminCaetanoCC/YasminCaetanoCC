@@ -1,6 +1,6 @@
+
 <div align="center">
-  <h1>👩🏻‍💻  Yasmin Caetano</h1>
-  <strong><code>Desenvolvedora | Data Science</code></strong><br><br>
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=200&section=header&text=Yasmin%20Caetano&fontSize=50&animation=twinkling&desc=Desenvolvedora%20%7C%20Data%20Science&descSize=20&descAlignY=70" width="150%"/>
   
   <p align="justify"> Me chamo Yasmin Caetano, tenho 25 anos. Atualmente, estou cursando Ciência da Computação na UFF. Gosto de resolver problemas com tecnologia!</p>
 
@@ -53,5 +53,7 @@
   <img alt="GitHub Stats" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api?username=YasminCaetanoCC&show_icons=true&theme=algolia" />
   <img alt="Linguagens" height="195" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=YasminCaetanoCC&layout=donut&theme=radical" />
   <br/><br/>
-  <img alt="Resumo de Contribuições" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YasminCaetanoCC&theme=radical" />
+  <div align="center">
+
+</div>
 </div>
