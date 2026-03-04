@@ -19,11 +19,11 @@
     <img alt="Total de estrelas" src="https://custom-icon-badges.demolab.com/github/followers/YasminCaetanoCC?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white" />
   </a>
   <a href="https://github.com/YasminCaetanoCC?tab=repositories">
-    <img alt="Repositório" width="80px" src="https://custom-icon-badges.demolab.com/badge/Repo-blue.svg?logo=repo" />
-  </a>
+  <img alt="Repositórios" src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FYasminCaetanoCC&query=public_repos&label=Reposit%C3%B3rios&logo=github&color=181717&style=flat-square" width="16.2%" />
+</a>
+   
    </div>
 </div>
-
 <br/>
 
 ### 💻 Tecnologias e Ferramentas
