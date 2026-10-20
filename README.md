@@ -17,7 +17,7 @@
   <a href="https://www.linkedin.com/in/yasmin-caetano-">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:SEU_EMAIL_AQUI">
+  <a href="mailto:yasmincaetano@id.uff.br">
     <img alt="E-mail" src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://lattes.cnpq.br/3309264668367120">
