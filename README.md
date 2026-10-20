@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=58a6ff&height=150&section=header&text=Yasmin%20Caetano&fontSize=50&animation=twinkling&desc=Desenvolvedora%20%7C%20Data%20Science&descSize=20&descAlignY=70" width="100%"/>
 </div>
   
-  <p align="justify"> Me chamo Yasmin Caetano, tenho 25 anos. Atualmente, estou cursando Ciência da Computação na UFF. Gosto de resolver problemas com tecnologia!</p>
+  <p align="justify"> Me chamo Yasmin Caetano. Atualmente, estou cursando Ciência da Computação na UFF. Gosto de resolver problemas com tecnologia!</p>
 
  <div align="center">
   <a href="https://www.linkedin.com/in/yasmin-caetano-">
